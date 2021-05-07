@@ -1,4 +1,19 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black; font-family:arial;color:white}
+h1{color:grey; font-family:verdana}
+.maindiv{
+    background-color:white;color:black;width:500px;padding:20px;border-radius:25px;align:center
+}
+p{
+    padding:40px;
+}
+.inner1{
+    margin-left:65px;
+}
+.inner2{
+    margin-left:85px;
+}
+.inner3{
+    margin-left:45px;
+}
 
 
